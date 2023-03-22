@@ -1,0 +1,30 @@
+{
+  "common": {
+    "buttons": {
+      "back": "Back",
+      "close": "Close",
+      "save": "Save"
+    },
+    "english": "English",
+    "german": "German"
+  },
+  "mapView": {
+    "goDetailBtn": "Go Detail",
+    "advanced": "Advanced Information"
+  },
+  "detailScreen": {
+    "markerName": "Marker Name:",
+    "markerDesc": "Marker Description",
+    "title": "Marker Detail"
+  },
+  "userSetting": {
+    "name": "Name:",
+    "email": "Email",
+    "phoneNumber": "Phone Number:",
+    "changeLang": "Change Language"
+  },
+  "tabNames": {
+    "mapView": "Map View",
+    "userSetting": "User"
+  }
+}

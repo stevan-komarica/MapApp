@@ -1,0 +1,30 @@
+{
+  "common": {
+    "buttons": {
+      "back": "Zurück",
+      "close": "Schließen",
+      "save": "Speichern"
+    },
+    "english": "English",
+    "german": "German"
+  },
+  "mapView": {
+    "goDetailBtn": "Gehen Sie ins Detail",
+    "advanced": "Erweiterte Informationen"
+  },
+  "detailScreen": {
+    "markerName": "Markierungsname:",
+    "markerDesc": "Markierungsbeschreibung",
+    "title": "Marker-Detail"
+  },
+  "userSetting": {
+    "name": "Name:",
+    "email": "Email:",
+    "phoneNumber": "Telefonnummer:",
+    "changeLang": "Sprache ändern"
+  },
+  "tabNames": {
+    "mapView": "Kartenansicht",
+    "userSetting": "Benutzer"
+  }
+}
